@@ -1,7 +1,3 @@
-print "Hello world"
-print "This is new"
-<<<<<<< HEAD
+print "Hello world" 
+print "This is new" 
 print "We want to keep this line in"
-=======
-print "We want this line gone"
->>>>>>> master
